@@ -1,0 +1,8 @@
+c:\Tutorials\Lessons\UKpostcodesEF\DealingWithCSV\bin\Debug\DealingWithCSV.exe.config
+c:\Tutorials\Lessons\UKpostcodesEF\DealingWithCSV\bin\Debug\DealingWithCSV.exe
+c:\Tutorials\Lessons\UKpostcodesEF\DealingWithCSV\bin\Debug\DealingWithCSV.pdb
+c:\Tutorials\Lessons\UKpostcodesEF\DealingWithCSV\obj\Debug\DealingWithCSV.csprojResolveAssemblyReference.cache
+c:\Tutorials\Lessons\UKpostcodesEF\DealingWithCSV\obj\Debug\DealingWithCSV.exe
+c:\Tutorials\Lessons\UKpostcodesEF\DealingWithCSV\obj\Debug\DealingWithCSV.pdb
+c:\Tutorials\Lessons\UKpostcodesEF\DealingWithCSV\obj\Debug\DealingWithCSV.Properties.Resources.resources
+c:\Tutorials\Lessons\UKpostcodesEF\DealingWithCSV\obj\Debug\DealingWithCSV.csproj.GenerateResource.Cache

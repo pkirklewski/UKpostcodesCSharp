@@ -1,0 +1,6 @@
+c:\Tutorials\Lessons\UKpostcodesEF\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+c:\Tutorials\Lessons\UKpostcodesEF\Queries\bin\Debug\Queries.exe.config
+c:\Tutorials\Lessons\UKpostcodesEF\Queries\bin\Debug\Queries.exe
+c:\Tutorials\Lessons\UKpostcodesEF\Queries\bin\Debug\Queries.pdb
+c:\Tutorials\Lessons\UKpostcodesEF\Queries\obj\Debug\Queries.exe
+c:\Tutorials\Lessons\UKpostcodesEF\Queries\obj\Debug\Queries.pdb

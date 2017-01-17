@@ -1,0 +1,6 @@
+c:\Tutorials\Lessons\UKpostcodesEF\sq\bin\Debug\sq.exe.config
+c:\Tutorials\Lessons\UKpostcodesEF\sq\bin\Debug\sq.exe
+c:\Tutorials\Lessons\UKpostcodesEF\sq\bin\Debug\sq.pdb
+c:\Tutorials\Lessons\UKpostcodesEF\sq\obj\Debug\sq.exe
+c:\Tutorials\Lessons\UKpostcodesEF\sq\obj\Debug\sq.pdb
+c:\Tutorials\Lessons\UKpostcodesEF\sq\obj\Debug\sq.csprojResolveAssemblyReference.cache
