@@ -31,8 +31,6 @@ namespace DealingWithCSV
 
         }
 
-
-
         private static List<Car> ProcessCars(string path)
         {
             var query = 
@@ -61,6 +59,15 @@ namespace DealingWithCSV
 
 
             // break csv lines into columns
+
+            // CHANGE A
+            // CHANGE B
+            // CHANGE C
+            // CHANGE D
+            // CHANGE E
+            // CHANGE F
+
+            
 
 
             foreach (var line in source)
